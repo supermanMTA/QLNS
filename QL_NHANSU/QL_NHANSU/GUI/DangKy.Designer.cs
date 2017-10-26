@@ -1,6 +1,6 @@
-﻿namespace QL_NHANSU
+﻿namespace QL_NHANSU.GUI
 {
-    partial class DangKy
+    partial class Dangky
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DangKy));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Dangky));
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
@@ -107,11 +107,11 @@
             this.btnthoat.TabIndex = 2;
             this.btnthoat.Text = "Thoát";
             this.btnthoat.UseVisualStyleBackColor = true;
-          //  this.btnthoat.Click += new System.EventHandler(this.btnthoat_Click);
+            this.btnthoat.Click += new System.EventHandler(this.btnthoat_Click);
             // 
             // btnnhaplai
             // 
-          //  this.btnnhaplai.Image = ((System.Drawing.Image)(resources.GetObject("btnnhaplai.Image")));
+            this.btnnhaplai.Image = ((System.Drawing.Image)(resources.GetObject("btnnhaplai.Image")));
             this.btnnhaplai.ImageAlign = System.Drawing.ContentAlignment.BottomLeft;
             this.btnnhaplai.Location = new System.Drawing.Point(111, 19);
             this.btnnhaplai.Name = "btnnhaplai";
@@ -120,7 +120,7 @@
             this.btnnhaplai.Text = "Nhập lại ";
             this.btnnhaplai.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnnhaplai.UseVisualStyleBackColor = true;
-           // this.btnnhaplai.Click += new System.EventHandler(this.btnnhaplai_Click);
+            this.btnnhaplai.Click += new System.EventHandler(this.btnnhaplai_Click);
             // 
             // btnok
             // 
@@ -133,7 +133,7 @@
             this.btnok.Text = "Hoàn tất ";
             this.btnok.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnok.UseVisualStyleBackColor = true;
-          //  this.btnok.Click += new System.EventHandler(this.btnok_Click);
+            this.btnok.Click += new System.EventHandler(this.btnok_Click);
             // 
             // Dangky
             // 

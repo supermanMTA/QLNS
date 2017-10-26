@@ -1,4 +1,4 @@
-﻿namespace QL_NHANSU
+﻿namespace QL_NHANSU.GUI
 {
     partial class Login
     {
@@ -62,7 +62,7 @@
             this.button5.Text = "Hủy bỏ  ";
             this.button5.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button5.UseVisualStyleBackColor = true;
-         //  this.button5.Click += new System.EventHandler(this.button5_Click);
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button6
             // 
@@ -76,7 +76,7 @@
             this.button6.Text = "Đăng nhập";
             this.button6.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button6.UseVisualStyleBackColor = true;
-          //  this.button6.Click += new System.EventHandler(this.button6_Click);
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // groupBox5
             // 
