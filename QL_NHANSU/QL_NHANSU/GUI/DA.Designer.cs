@@ -29,27 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DA));
-            this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.toolStrip1 = new System.Windows.Forms.ToolStrip();
-            this.btnThemNV = new System.Windows.Forms.ToolStripButton();
-            this.btnSuaNV = new System.Windows.Forms.ToolStripButton();
-            this.btnXoaNV = new System.Windows.Forms.ToolStripButton();
-            this.label8 = new System.Windows.Forms.Label();
-            this.dgvDANV = new System.Windows.Forms.DataGridView();
-            this.groupBox5 = new System.Windows.Forms.GroupBox();
-            this.toolStrip2 = new System.Windows.Forms.ToolStrip();
-            this.btnThem = new System.Windows.Forms.ToolStripButton();
-            this.btnSua = new System.Windows.Forms.ToolStripButton();
-            this.btnXoa = new System.Windows.Forms.ToolStripButton();
-            this.btnLuu = new System.Windows.Forms.ToolStripButton();
-            this.btnHuy = new System.Windows.Forms.ToolStripButton();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.label7 = new System.Windows.Forms.Label();
-            this.btnSearch = new System.Windows.Forms.Button();
-            this.txtKey = new System.Windows.Forms.TextBox();
-            this.label4 = new System.Windows.Forms.Label();
-            this.dgvDuAn = new System.Windows.Forms.DataGridView();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.cbbMaPB = new System.Windows.Forms.ComboBox();
             this.txtsogio = new System.Windows.Forms.TextBox();
@@ -63,234 +42,36 @@
             this.label2 = new System.Windows.Forms.Label();
             this.txtMaDA = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.groupBox3.SuspendLayout();
-            this.toolStrip1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvDANV)).BeginInit();
+            this.dgvDuAn = new System.Windows.Forms.DataGridView();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.btnSearch = new System.Windows.Forms.Button();
+            this.txtKey = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.groupBox5 = new System.Windows.Forms.GroupBox();
+            this.toolStrip2 = new System.Windows.Forms.ToolStrip();
+            this.btnThem = new System.Windows.Forms.ToolStripButton();
+            this.btnSua = new System.Windows.Forms.ToolStripButton();
+            this.btnXoa = new System.Windows.Forms.ToolStripButton();
+            this.btnLuu = new System.Windows.Forms.ToolStripButton();
+            this.btnHuy = new System.Windows.Forms.ToolStripButton();
+            this.dgvDANV = new System.Windows.Forms.DataGridView();
+            this.label8 = new System.Windows.Forms.Label();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.toolStrip1 = new System.Windows.Forms.ToolStrip();
+            this.btnThemNV = new System.Windows.Forms.ToolStripButton();
+            this.btnSuaNV = new System.Windows.Forms.ToolStripButton();
+            this.btnXoaNV = new System.Windows.Forms.ToolStripButton();
+            this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvDuAn)).BeginInit();
+            this.groupBox2.SuspendLayout();
             this.groupBox5.SuspendLayout();
             this.toolStrip2.SuspendLayout();
-            this.groupBox2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvDuAn)).BeginInit();
-            this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvDANV)).BeginInit();
+            this.groupBox3.SuspendLayout();
+            this.toolStrip1.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // groupBox3
-            // 
-            this.groupBox3.Controls.Add(this.toolStrip1);
-            this.groupBox3.Location = new System.Drawing.Point(624, 325);
-            this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(266, 49);
-            this.groupBox3.TabIndex = 91;
-            this.groupBox3.TabStop = false;
-            // 
-            // toolStrip1
-            // 
-            this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.btnThemNV,
-            this.btnSuaNV,
-            this.btnXoaNV});
-            this.toolStrip1.Location = new System.Drawing.Point(3, 16);
-            this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(260, 33);
-            this.toolStrip1.TabIndex = 81;
-            this.toolStrip1.Text = "toolStrip1";
-            // 
-            // btnThemNV
-            // 
-            this.btnThemNV.AutoSize = false;
-            this.btnThemNV.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnThemNV.Image = ((System.Drawing.Image)(resources.GetObject("btnThemNV.Image")));
-            this.btnThemNV.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.btnThemNV.Name = "btnThemNV";
-            this.btnThemNV.Size = new System.Drawing.Size(80, 30);
-            this.btnThemNV.Text = "Thêm";
-            this.btnThemNV.ToolTipText = "Thêm(CRT+N)";
-            // 
-            // btnSuaNV
-            // 
-            this.btnSuaNV.AutoSize = false;
-            this.btnSuaNV.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSuaNV.Image = ((System.Drawing.Image)(resources.GetObject("btnSuaNV.Image")));
-            this.btnSuaNV.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.btnSuaNV.Name = "btnSuaNV";
-            this.btnSuaNV.Size = new System.Drawing.Size(80, 30);
-            this.btnSuaNV.Text = "Sửa ";
-            // 
-            // btnXoaNV
-            // 
-            this.btnXoaNV.AutoSize = false;
-            this.btnXoaNV.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnXoaNV.Image = ((System.Drawing.Image)(resources.GetObject("btnXoaNV.Image")));
-            this.btnXoaNV.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.btnXoaNV.Name = "btnXoaNV";
-            this.btnXoaNV.Size = new System.Drawing.Size(80, 30);
-            this.btnXoaNV.Text = "Xóa";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(470, 344);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(129, 13);
-            this.label8.TabIndex = 90;
-            this.label8.Text = "Nhân viên tham gia dự án";
-            // 
-            // dgvDANV
-            // 
-            this.dgvDANV.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvDANV.Location = new System.Drawing.Point(509, 383);
-            this.dgvDANV.Name = "dgvDANV";
-            this.dgvDANV.ReadOnly = true;
-            this.dgvDANV.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvDANV.Size = new System.Drawing.Size(407, 123);
-            this.dgvDANV.TabIndex = 89;
-            // 
-            // groupBox5
-            // 
-            this.groupBox5.Controls.Add(this.toolStrip2);
-            this.groupBox5.Location = new System.Drawing.Point(452, 37);
-            this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Size = new System.Drawing.Size(533, 49);
-            this.groupBox5.TabIndex = 88;
-            this.groupBox5.TabStop = false;
-            this.groupBox5.Text = "Thao tác";
-            // 
-            // toolStrip2
-            // 
-            this.toolStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.btnThem,
-            this.btnSua,
-            this.btnXoa,
-            this.btnLuu,
-            this.btnHuy});
-            this.toolStrip2.Location = new System.Drawing.Point(3, 16);
-            this.toolStrip2.Name = "toolStrip2";
-            this.toolStrip2.Size = new System.Drawing.Size(527, 33);
-            this.toolStrip2.TabIndex = 81;
-            this.toolStrip2.Text = "toolStrip1";
-            // 
-            // btnThem
-            // 
-            this.btnThem.AutoSize = false;
-            this.btnThem.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnThem.Image = ((System.Drawing.Image)(resources.GetObject("btnThem.Image")));
-            this.btnThem.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.btnThem.Name = "btnThem";
-            this.btnThem.Size = new System.Drawing.Size(80, 30);
-            this.btnThem.Text = "Thêm";
-            this.btnThem.ToolTipText = "Thêm(CRT+N)";
-            // 
-            // btnSua
-            // 
-            this.btnSua.AutoSize = false;
-            this.btnSua.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSua.Image = ((System.Drawing.Image)(resources.GetObject("btnSua.Image")));
-            this.btnSua.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.btnSua.Name = "btnSua";
-            this.btnSua.Size = new System.Drawing.Size(80, 30);
-            this.btnSua.Text = "Sửa ";
-            // 
-            // btnXoa
-            // 
-            this.btnXoa.AutoSize = false;
-            this.btnXoa.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnXoa.Image = ((System.Drawing.Image)(resources.GetObject("btnXoa.Image")));
-            this.btnXoa.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.btnXoa.Name = "btnXoa";
-            this.btnXoa.Size = new System.Drawing.Size(80, 30);
-            this.btnXoa.Text = "Xóa";
-            // 
-            // btnLuu
-            // 
-            this.btnLuu.AutoSize = false;
-            this.btnLuu.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLuu.Image = global::QL_NHANSU.Properties.Resources._04_download_128;
-            this.btnLuu.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.btnLuu.Name = "btnLuu";
-            this.btnLuu.Size = new System.Drawing.Size(80, 30);
-            this.btnLuu.Text = "Lưu";
-            // 
-            // btnHuy
-            // 
-            this.btnHuy.Image = global::QL_NHANSU.Properties.Resources.Cancel;
-            this.btnHuy.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.btnHuy.Name = "btnHuy";
-            this.btnHuy.Size = new System.Drawing.Size(49, 30);
-            this.btnHuy.Text = "Hủy";
-            // 
-            // groupBox2
-            // 
-            this.groupBox2.Controls.Add(this.comboBox1);
-            this.groupBox2.Controls.Add(this.label7);
-            this.groupBox2.Controls.Add(this.btnSearch);
-            this.groupBox2.Controls.Add(this.txtKey);
-            this.groupBox2.Controls.Add(this.label4);
-            this.groupBox2.Location = new System.Drawing.Point(48, 294);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(403, 114);
-            this.groupBox2.TabIndex = 87;
-            this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Tìm Kiếm";
-            // 
-            // comboBox1
-            // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
-            "Mã dự án",
-            "Tên dự án"});
-            this.comboBox1.Location = new System.Drawing.Point(130, 23);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(181, 21);
-            this.comboBox1.TabIndex = 9;
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(44, 31);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(73, 13);
-            this.label7.TabIndex = 8;
-            this.label7.Text = "Tìm kiếm theo";
-            // 
-            // btnSearch
-            // 
-            this.btnSearch.Location = new System.Drawing.Point(175, 76);
-            this.btnSearch.Name = "btnSearch";
-            this.btnSearch.Size = new System.Drawing.Size(70, 23);
-            this.btnSearch.TabIndex = 6;
-            this.btnSearch.Text = "Tìm Kiếm";
-            this.btnSearch.UseVisualStyleBackColor = true;
-            // 
-            // txtKey
-            // 
-            this.txtKey.Location = new System.Drawing.Point(130, 50);
-            this.txtKey.Name = "txtKey";
-            this.txtKey.Size = new System.Drawing.Size(181, 20);
-            this.txtKey.TabIndex = 0;
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(37, 57);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(75, 13);
-            this.label4.TabIndex = 5;
-            this.label4.Text = "Nội Dung Tìm:";
-            // 
-            // dgvDuAn
-            // 
-            this.dgvDuAn.AllowUserToAddRows = false;
-            this.dgvDuAn.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.dgvDuAn.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dgvDuAn.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvDuAn.Location = new System.Drawing.Point(457, 99);
-            this.dgvDuAn.MultiSelect = false;
-            this.dgvDuAn.Name = "dgvDuAn";
-            this.dgvDuAn.ReadOnly = true;
-            this.dgvDuAn.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvDuAn.Size = new System.Drawing.Size(459, 174);
-            this.dgvDuAn.TabIndex = 86;
             // 
             // groupBox1
             // 
@@ -306,10 +87,10 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.txtMaDA);
             this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Location = new System.Drawing.Point(74, 68);
+            this.groupBox1.Location = new System.Drawing.Point(29, 34);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(336, 192);
-            this.groupBox1.TabIndex = 85;
+            this.groupBox1.TabIndex = 31;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Thông Tin Dự án";
             // 
@@ -410,6 +191,235 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Mã Dự án";
             // 
+            // dgvDuAn
+            // 
+            this.dgvDuAn.AllowUserToAddRows = false;
+            this.dgvDuAn.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.dgvDuAn.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dgvDuAn.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvDuAn.Location = new System.Drawing.Point(412, 65);
+            this.dgvDuAn.MultiSelect = false;
+            this.dgvDuAn.Name = "dgvDuAn";
+            this.dgvDuAn.ReadOnly = true;
+            this.dgvDuAn.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dgvDuAn.Size = new System.Drawing.Size(459, 174);
+            this.dgvDuAn.TabIndex = 32;
+            this.dgvDuAn.SelectionChanged += new System.EventHandler(this.dgvDuAn_SelectionChanged);
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Controls.Add(this.comboBox1);
+            this.groupBox2.Controls.Add(this.label7);
+            this.groupBox2.Controls.Add(this.btnSearch);
+            this.groupBox2.Controls.Add(this.txtKey);
+            this.groupBox2.Controls.Add(this.label4);
+            this.groupBox2.Location = new System.Drawing.Point(3, 260);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(403, 114);
+            this.groupBox2.TabIndex = 33;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "Tìm Kiếm";
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Items.AddRange(new object[] {
+            "Mã dự án",
+            "Tên dự án"});
+            this.comboBox1.Location = new System.Drawing.Point(130, 23);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(181, 21);
+            this.comboBox1.TabIndex = 9;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(44, 31);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(73, 13);
+            this.label7.TabIndex = 8;
+            this.label7.Text = "Tìm kiếm theo";
+            // 
+            // btnSearch
+            // 
+            this.btnSearch.Location = new System.Drawing.Point(175, 76);
+            this.btnSearch.Name = "btnSearch";
+            this.btnSearch.Size = new System.Drawing.Size(70, 23);
+            this.btnSearch.TabIndex = 6;
+            this.btnSearch.Text = "Tìm Kiếm";
+            this.btnSearch.UseVisualStyleBackColor = true;
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
+            // 
+            // txtKey
+            // 
+            this.txtKey.Location = new System.Drawing.Point(130, 50);
+            this.txtKey.Name = "txtKey";
+            this.txtKey.Size = new System.Drawing.Size(181, 20);
+            this.txtKey.TabIndex = 0;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(37, 57);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(75, 13);
+            this.label4.TabIndex = 5;
+            this.label4.Text = "Nội Dung Tìm:";
+            // 
+            // groupBox5
+            // 
+            this.groupBox5.Controls.Add(this.toolStrip2);
+            this.groupBox5.Location = new System.Drawing.Point(407, 3);
+            this.groupBox5.Name = "groupBox5";
+            this.groupBox5.Size = new System.Drawing.Size(533, 49);
+            this.groupBox5.TabIndex = 81;
+            this.groupBox5.TabStop = false;
+            this.groupBox5.Text = "Thao tác";
+            // 
+            // toolStrip2
+            // 
+            this.toolStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.btnThem,
+            this.btnSua,
+            this.btnXoa,
+            this.btnLuu,
+            this.btnHuy});
+            this.toolStrip2.Location = new System.Drawing.Point(3, 16);
+            this.toolStrip2.Name = "toolStrip2";
+            this.toolStrip2.Size = new System.Drawing.Size(527, 33);
+            this.toolStrip2.TabIndex = 81;
+            this.toolStrip2.Text = "toolStrip1";
+            // 
+            // btnThem
+            // 
+            this.btnThem.AutoSize = false;
+            this.btnThem.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnThem.Image = ((System.Drawing.Image)(resources.GetObject("btnThem.Image")));
+            this.btnThem.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.btnThem.Name = "btnThem";
+            this.btnThem.Size = new System.Drawing.Size(80, 30);
+            this.btnThem.Text = "Thêm";
+            this.btnThem.ToolTipText = "Thêm(CRT+N)";
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
+            // 
+            // btnSua
+            // 
+            this.btnSua.AutoSize = false;
+            this.btnSua.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSua.Image = ((System.Drawing.Image)(resources.GetObject("btnSua.Image")));
+            this.btnSua.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.btnSua.Name = "btnSua";
+            this.btnSua.Size = new System.Drawing.Size(80, 30);
+            this.btnSua.Text = "Sửa ";
+            this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
+            // 
+            // btnXoa
+            // 
+            this.btnXoa.AutoSize = false;
+            this.btnXoa.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnXoa.Image = ((System.Drawing.Image)(resources.GetObject("btnXoa.Image")));
+            this.btnXoa.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.btnXoa.Name = "btnXoa";
+            this.btnXoa.Size = new System.Drawing.Size(80, 30);
+            this.btnXoa.Text = "Xóa";
+            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
+            // 
+            // btnLuu
+            // 
+            this.btnLuu.AutoSize = false;
+            this.btnLuu.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLuu.Image = global::QL_NHANSU.Properties.Resources._04_download_128;
+            this.btnLuu.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.btnLuu.Name = "btnLuu";
+            this.btnLuu.Size = new System.Drawing.Size(80, 30);
+            this.btnLuu.Text = "Lưu";
+            this.btnLuu.Click += new System.EventHandler(this.btnIn_Click);
+            // 
+            // btnHuy
+            // 
+            this.btnHuy.Image = global::QL_NHANSU.Properties.Resources.Cancel;
+            this.btnHuy.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.btnHuy.Name = "btnHuy";
+            this.btnHuy.Size = new System.Drawing.Size(49, 30);
+            this.btnHuy.Text = "Hủy";
+            this.btnHuy.Click += new System.EventHandler(this.toolStripButton1_Click);
+            // 
+            // dgvDANV
+            // 
+            this.dgvDANV.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvDANV.Location = new System.Drawing.Point(464, 349);
+            this.dgvDANV.Name = "dgvDANV";
+            this.dgvDANV.ReadOnly = true;
+            this.dgvDANV.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dgvDANV.Size = new System.Drawing.Size(407, 123);
+            this.dgvDANV.TabIndex = 82;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(425, 310);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(129, 13);
+            this.label8.TabIndex = 83;
+            this.label8.Text = "Nhân viên tham gia dự án";
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.toolStrip1);
+            this.groupBox3.Location = new System.Drawing.Point(579, 291);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(266, 49);
+            this.groupBox3.TabIndex = 84;
+            this.groupBox3.TabStop = false;
+            // 
+            // toolStrip1
+            // 
+            this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.btnThemNV,
+            this.btnSuaNV,
+            this.btnXoaNV});
+            this.toolStrip1.Location = new System.Drawing.Point(3, 16);
+            this.toolStrip1.Name = "toolStrip1";
+            this.toolStrip1.Size = new System.Drawing.Size(260, 33);
+            this.toolStrip1.TabIndex = 81;
+            this.toolStrip1.Text = "toolStrip1";
+            // 
+            // btnThemNV
+            // 
+            this.btnThemNV.AutoSize = false;
+            this.btnThemNV.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnThemNV.Image = ((System.Drawing.Image)(resources.GetObject("btnThemNV.Image")));
+            this.btnThemNV.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.btnThemNV.Name = "btnThemNV";
+            this.btnThemNV.Size = new System.Drawing.Size(80, 30);
+            this.btnThemNV.Text = "Thêm";
+            this.btnThemNV.ToolTipText = "Thêm(CRT+N)";
+            this.btnThemNV.Click += new System.EventHandler(this.btnThemNV_Click);
+            // 
+            // btnSuaNV
+            // 
+            this.btnSuaNV.AutoSize = false;
+            this.btnSuaNV.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSuaNV.Image = ((System.Drawing.Image)(resources.GetObject("btnSuaNV.Image")));
+            this.btnSuaNV.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.btnSuaNV.Name = "btnSuaNV";
+            this.btnSuaNV.Size = new System.Drawing.Size(80, 30);
+            this.btnSuaNV.Text = "Sửa ";
+            this.btnSuaNV.Click += new System.EventHandler(this.btnSuaNV_Click);
+            // 
+            // btnXoaNV
+            // 
+            this.btnXoaNV.AutoSize = false;
+            this.btnXoaNV.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnXoaNV.Image = ((System.Drawing.Image)(resources.GetObject("btnXoaNV.Image")));
+            this.btnXoaNV.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.btnXoaNV.Name = "btnXoaNV";
+            this.btnXoaNV.Size = new System.Drawing.Size(80, 30);
+            this.btnXoaNV.Text = "Xóa";
+            this.btnXoaNV.Click += new System.EventHandler(this.btnXoaNV_Click);
+            // 
             // DA
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -422,21 +432,22 @@
             this.Controls.Add(this.dgvDuAn);
             this.Controls.Add(this.groupBox1);
             this.Name = "DA";
-            this.Size = new System.Drawing.Size(1032, 543);
-            this.groupBox3.ResumeLayout(false);
-            this.groupBox3.PerformLayout();
-            this.toolStrip1.ResumeLayout(false);
-            this.toolStrip1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvDANV)).EndInit();
+            this.Size = new System.Drawing.Size(918, 537);
+            this.Load += new System.EventHandler(this.DA_Load);
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvDuAn)).EndInit();
+            this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
             this.groupBox5.ResumeLayout(false);
             this.groupBox5.PerformLayout();
             this.toolStrip2.ResumeLayout(false);
             this.toolStrip2.PerformLayout();
-            this.groupBox2.ResumeLayout(false);
-            this.groupBox2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvDuAn)).EndInit();
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvDANV)).EndInit();
+            this.groupBox3.ResumeLayout(false);
+            this.groupBox3.PerformLayout();
+            this.toolStrip1.ResumeLayout(false);
+            this.toolStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -444,29 +455,7 @@
 
         #endregion
 
-        private System.Windows.Forms.GroupBox groupBox3;
-        private System.Windows.Forms.ToolStrip toolStrip1;
-        private System.Windows.Forms.ToolStripButton btnThemNV;
-        private System.Windows.Forms.ToolStripButton btnSuaNV;
-        private System.Windows.Forms.ToolStripButton btnXoaNV;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.DataGridView dgvDANV;
-        private System.Windows.Forms.GroupBox groupBox5;
-        private System.Windows.Forms.ToolStrip toolStrip2;
-        private System.Windows.Forms.ToolStripButton btnThem;
-        private System.Windows.Forms.ToolStripButton btnSua;
-        private System.Windows.Forms.ToolStripButton btnXoa;
-        private System.Windows.Forms.ToolStripButton btnLuu;
-        private System.Windows.Forms.ToolStripButton btnHuy;
-        private System.Windows.Forms.GroupBox groupBox2;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Button btnSearch;
-        private System.Windows.Forms.TextBox txtKey;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.DataGridView dgvDuAn;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.ComboBox cbbMaPB;
         private System.Windows.Forms.TextBox txtsogio;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox txtDD;
@@ -478,5 +467,33 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtMaDA;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.DataGridView dgvDuAn;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Button btnSearch;
+        private System.Windows.Forms.TextBox txtKey;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.GroupBox groupBox5;
+        private System.Windows.Forms.ToolStrip toolStrip2;
+        private System.Windows.Forms.ToolStripButton btnThem;
+        private System.Windows.Forms.ToolStripButton btnSua;
+        private System.Windows.Forms.ToolStripButton btnXoa;
+        private System.Windows.Forms.ToolStripButton btnLuu;
+        private System.Windows.Forms.DataGridView dgvDANV;
+        private System.Windows.Forms.Label label8;
+      
+        //private System.Windows.Forms.DataGridViewTextBoxColumn MaDA;
+        //private System.Windows.Forms.DataGridViewTextBoxColumn TenDA;
+        //private System.Windows.Forms.DataGridViewTextBoxColumn MaPB;
+        //private System.Windows.Forms.DataGridViewTextBoxColumn DiaDiem;
+        //private System.Windows.Forms.DataGridViewTextBoxColumn tongsogio;
+        private System.Windows.Forms.ComboBox cbbMaPB;
+        private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.ToolStrip toolStrip1;
+        private System.Windows.Forms.ToolStripButton btnThemNV;
+        private System.Windows.Forms.ToolStripButton btnSuaNV;
+        private System.Windows.Forms.ToolStripButton btnXoaNV;
+        private System.Windows.Forms.ToolStripButton btnHuy;
     }
 }
