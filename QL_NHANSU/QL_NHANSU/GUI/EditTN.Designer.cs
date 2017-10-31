@@ -1,4 +1,4 @@
-﻿namespace QL_NHANSU
+﻿namespace QL_NHANSU.GUI
 {
     partial class EditTN
     {
@@ -80,6 +80,7 @@
             this.toolStripButton1.Size = new System.Drawing.Size(80, 30);
             this.toolStripButton1.Text = "Sửa";
             this.toolStripButton1.ToolTipText = "Thêm(CRT+N)";
+            this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
             // 
             // toolStripButton2
             // 
@@ -90,6 +91,7 @@
             this.toolStripButton2.Name = "toolStripButton2";
             this.toolStripButton2.Size = new System.Drawing.Size(80, 30);
             this.toolStripButton2.Text = "Hủy";
+            this.toolStripButton2.Click += new System.EventHandler(this.toolStripButton2_Click);
             // 
             // groupBox1
             // 
@@ -115,7 +117,7 @@
             // 
             this.dateTimePicker1.Location = new System.Drawing.Point(130, 105);
             this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(181, 20);
+            this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
             this.dateTimePicker1.TabIndex = 11;
             // 
             // txtQH
@@ -204,12 +206,13 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(492, 295);
+            this.ClientSize = new System.Drawing.Size(480, 295);
             this.Controls.Add(this.groupBox5);
             this.Controls.Add(this.groupBox1);
             this.Name = "EditTN";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "EditTN";
+            this.Load += new System.EventHandler(this.EditTN_Load);
             this.groupBox5.ResumeLayout(false);
             this.groupBox5.PerformLayout();
             this.toolStrip2.ResumeLayout(false);
