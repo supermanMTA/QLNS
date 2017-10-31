@@ -1,9 +1,10 @@
-﻿namespace QL_NHANSU
+﻿namespace QL_NHANSU.GUI
 {
     partial class AddNV
-    { /// <summary>
-      /// Required designer variable.
-      /// </summary>
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
@@ -27,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AddNV));
             this.groupBox5 = new System.Windows.Forms.GroupBox();
             this.toolStrip2 = new System.Windows.Forms.ToolStrip();
             this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
@@ -71,12 +73,13 @@
             // 
             this.toolStripButton1.AutoSize = false;
             this.toolStripButton1.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.toolStripButton1.Image = global::QL_NHANSU.Properties.Resources.Add;
+            this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton1.Image")));
             this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton1.Name = "toolStripButton1";
             this.toolStripButton1.Size = new System.Drawing.Size(80, 30);
             this.toolStripButton1.Text = "Thêm";
             this.toolStripButton1.ToolTipText = "Thêm(CRT+N)";
+            this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
             // 
             // toolStripButton2
             // 
@@ -87,6 +90,7 @@
             this.toolStripButton2.Name = "toolStripButton2";
             this.toolStripButton2.Size = new System.Drawing.Size(80, 30);
             this.toolStripButton2.Text = "Hủy";
+            this.toolStripButton2.Click += new System.EventHandler(this.toolStripButton2_Click);
             // 
             // groupBox1
             // 
@@ -189,6 +193,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "AddNV";
             this.Text = "AddNV";
+            this.Load += new System.EventHandler(this.AddNV_Load);
             this.groupBox5.ResumeLayout(false);
             this.groupBox5.PerformLayout();
             this.toolStrip2.ResumeLayout(false);
