@@ -65,14 +65,14 @@
             // btnLogin
             // 
             this.btnLogin.Name = "btnLogin";
-            this.btnLogin.Size = new System.Drawing.Size(132, 22);
+            this.btnLogin.Size = new System.Drawing.Size(152, 22);
             this.btnLogin.Text = "Đăng nhập";
             this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
             // btnDangky
             // 
             this.btnDangky.Name = "btnDangky";
-            this.btnDangky.Size = new System.Drawing.Size(132, 22);
+            this.btnDangky.Size = new System.Drawing.Size(152, 22);
             this.btnDangky.Text = "Đăng ký";
             this.btnDangky.Click += new System.EventHandler(this.btnDangky_Click);
             // 
@@ -80,7 +80,7 @@
             // 
             this.btnDangxuat.Enabled = false;
             this.btnDangxuat.Name = "btnDangxuat";
-            this.btnDangxuat.Size = new System.Drawing.Size(132, 22);
+            this.btnDangxuat.Size = new System.Drawing.Size(152, 22);
             this.btnDangxuat.Text = "Đăng xuất";
             this.btnDangxuat.Click += new System.EventHandler(this.btnDangxuat_Click);
             // 
@@ -118,7 +118,6 @@
             // 
             // panelMain
             // 
-            this.panelMain.BackgroundImage = global::QL_NHANSU.Properties.Resources.satis_departmanlari_unvan_pozisyonlar1_1_260;
             this.panelMain.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelMain.Location = new System.Drawing.Point(0, 24);
             this.panelMain.Name = "panelMain";
@@ -130,6 +129,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.BackgroundImage = global::QL_NHANSU.Properties.Resources.satis_departmanlari_unvan_pozisyonlar1_1_260;
             this.ClientSize = new System.Drawing.Size(1090, 601);
             this.Controls.Add(this.panelMain);
             this.Controls.Add(this.menuStrip1);

@@ -8,7 +8,7 @@ namespace QL_NHANSU.Data
     public partial class QL_NS : DbContext
     {
         public QL_NS()
-            : base("name=QL_NS")
+            : base("name=QL_NS1")
         {
         }
 
@@ -17,6 +17,7 @@ namespace QL_NHANSU.Data
         public virtual DbSet<NhanVien> NhanViens { get; set; }
         public virtual DbSet<PhanCong> PhanCongs { get; set; }
         public virtual DbSet<PhongBan> PhongBans { get; set; }
+        public virtual DbSet<sysdiagram> sysdiagrams { get; set; }
         public virtual DbSet<ThanNhan> ThanNhans { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)

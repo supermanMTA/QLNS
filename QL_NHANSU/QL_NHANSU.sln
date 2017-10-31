@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QL_NHANSU", "QL_NHANSU\QL_NHANSU.csproj", "{547C326D-24AF-4A2B-89A8-185167E615DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QL_NHANSU", "QL_NHANSU\QL_NHANSU.csproj", "{181B2A60-E1AE-443B-93B0-0E3D9F526E13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{547C326D-24AF-4A2B-89A8-185167E615DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{547C326D-24AF-4A2B-89A8-185167E615DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{547C326D-24AF-4A2B-89A8-185167E615DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{547C326D-24AF-4A2B-89A8-185167E615DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{181B2A60-E1AE-443B-93B0-0E3D9F526E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181B2A60-E1AE-443B-93B0-0E3D9F526E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181B2A60-E1AE-443B-93B0-0E3D9F526E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181B2A60-E1AE-443B-93B0-0E3D9F526E13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,56 +1,63 @@
-E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe.config
-E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe
-E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.pdb
-E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csprojResolveAssemblyReference.cache
-E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.AddNV.resources
-E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.DA.resources
-E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.NV.resources
-E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.PB.resources
-E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Properties.Resources.resources
-E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csproj.GenerateResource.Cache
-E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.exe
-E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.pdb
-E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.AddTN.resources
-E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.EditNV.resources
-E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.EditTN.resources
-E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Main.resources
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe.config
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.exe
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.pdb
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.AddNV.resources
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.AddTN.resources
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.EditNV.resources
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.EditTN.resources
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Main.resources
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Properties.Resources.resources
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csproj.GenerateResource.Cache
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.pdb
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.DA.resources
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.NV.resources
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.PB.resources
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.dll
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.xml
-C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.xml
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe.config
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.exe
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.pdb
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csprojResolveAssemblyReference.cache
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.AddNV.resources
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.AddTN.resources
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.DA.resources
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.EditNV.resources
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.EditTN.resources
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.NV.resources
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.PB.resources
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Main.resources
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Properties.Resources.resources
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csproj.GenerateResource.Cache
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.pdb
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.dll
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.dll
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.xml
-D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.xml
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe.config
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.pdb
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.dll
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.dll
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.xml
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.xml
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csprojResolveAssemblyReference.cache
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Properties.Resources.resources
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csproj.GenerateResource.Cache
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.exe
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.pdb
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\RdlCompile.cache
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\RdlCompile.compiled
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Main.resources
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.NV.resources
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.PB.resources
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.DA.resources
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Start.resources
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.Login.resources
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.Dangky.resources
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Reports.Report_NV.resources
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.EditTN.resources
+E:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.AddTN.resources
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe.config
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.exe
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.pdb
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.pdb
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.dll
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.dll
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.xml
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.xml
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csprojResolveAssemblyReference.cache
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.DA.resources
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.Dangky.resources
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.EditTN.resources
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.Login.resources
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.PB.resources
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.AddTN.resources
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Main.resources
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.NV.resources
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Properties.Resources.resources
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Start.resources
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csproj.GenerateResource.Cache
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\DevExpress.Data.v16.2.dll
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\DevExpress.Xpo.v16.2.dll
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\DevExpress.Data.v16.2.xml
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\DevExpress.Xpo.v16.2.xml
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.AddNV.resources
+D:\Năm 4\Kỳ 6\Web\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.EditNV.resources
+D:\Code\Thực tập nhóm\QLNS\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe.config
+D:\Code\Thực tập nhóm\QLNS\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.exe
+D:\Code\Thực tập nhóm\QLNS\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.pdb

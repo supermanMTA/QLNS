@@ -58,6 +58,7 @@ namespace QL_NHANSU.GUI
                 }
             }
         }
+
         private void toolStripButton2_Click(object sender, EventArgs e)
         {
             this.Hide();

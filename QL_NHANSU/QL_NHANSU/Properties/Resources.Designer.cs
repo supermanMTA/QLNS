@@ -63,9 +63,9 @@ namespace QL_NHANSU.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _010_x_128 {
+        internal static System.Drawing.Bitmap _04_download_128 {
             get {
-                object obj = ResourceManager.GetObject("010_x-128", resourceCulture);
+                object obj = ResourceManager.GetObject("04_download-128", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,19 @@ namespace QL_NHANSU.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _04_download_128 {
+        internal static System.Drawing.Bitmap _22815157_1462347490521936_936804099593173094_n {
             get {
-                object obj = ResourceManager.GetObject("04_download-128", resourceCulture);
+                object obj = ResourceManager.GetObject("22815157_1462347490521936_936804099593173094_n", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Action_file_new_icon {
+            get {
+                object obj = ResourceManager.GetObject("Action-file-new-icon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +123,9 @@ namespace QL_NHANSU.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ns {
+        internal static System.Drawing.Bitmap Remove {
             get {
-                object obj = ResourceManager.GetObject("ns", resourceCulture);
+                object obj = ResourceManager.GetObject("Remove", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

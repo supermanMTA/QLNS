@@ -111,7 +111,7 @@
             // 
             // btnnhaplai
             // 
-        //    this.btnnhaplai.Image = ((System.Drawing.Image)(resources.GetObject("btnnhaplai.Image")));
+            this.btnnhaplai.Image = ((System.Drawing.Image)(resources.GetObject("btnnhaplai.Image")));
             this.btnnhaplai.ImageAlign = System.Drawing.ContentAlignment.BottomLeft;
             this.btnnhaplai.Location = new System.Drawing.Point(111, 19);
             this.btnnhaplai.Name = "btnnhaplai";
@@ -124,7 +124,7 @@
             // 
             // btnok
             // 
-        //    this.btnok.Image = ((System.Drawing.Image)(resources.GetObject("btnok.Image")));
+            this.btnok.Image = ((System.Drawing.Image)(resources.GetObject("btnok.Image")));
             this.btnok.ImageAlign = System.Drawing.ContentAlignment.BottomLeft;
             this.btnok.Location = new System.Drawing.Point(6, 19);
             this.btnok.Name = "btnok";

@@ -300,7 +300,7 @@
             // BtnDelete
             // 
             this.BtnDelete.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-         //   this.BtnDelete.Image = global::QL_NHANSU.Properties.Resources.Remove;
+            this.BtnDelete.Image = global::QL_NHANSU.Properties.Resources.Remove;
             this.BtnDelete.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.BtnDelete.Name = "BtnDelete";
             this.BtnDelete.Size = new System.Drawing.Size(55, 24);

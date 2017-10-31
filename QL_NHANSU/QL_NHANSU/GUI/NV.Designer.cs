@@ -484,7 +484,7 @@
             // btnAdd
             // 
             this.btnAdd.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-         //   this.btnAdd.Image = global::QL_NHANSU.Properties.Resources.Add;
+            this.btnAdd.Image = global::QL_NHANSU.Properties.Resources.Add;
             this.btnAdd.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(66, 24);
@@ -494,7 +494,7 @@
             // btnEdit
             // 
             this.btnEdit.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-         //   this.btnEdit.Image = global::QL_NHANSU.Properties.Resources.Edit;
+            this.btnEdit.Image = global::QL_NHANSU.Properties.Resources.Edit;
             this.btnEdit.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnEdit.Name = "btnEdit";
             this.btnEdit.Size = new System.Drawing.Size(54, 24);
@@ -504,7 +504,7 @@
             // BtnDelete
             // 
             this.BtnDelete.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-       //     this.BtnDelete.Image = global::QL_NHANSU.Properties.Resources.Remove;
+            this.BtnDelete.Image = global::QL_NHANSU.Properties.Resources.Remove;
             this.BtnDelete.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.BtnDelete.Name = "BtnDelete";
             this.BtnDelete.Size = new System.Drawing.Size(55, 24);
@@ -515,7 +515,7 @@
             // 
             this.btnSave.Enabled = false;
             this.btnSave.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-        //    this.btnSave.Image = global::QL_NHANSU.Properties.Resources._04_download_128;
+            this.btnSave.Image = global::QL_NHANSU.Properties.Resources._04_download_128;
             this.btnSave.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(53, 24);

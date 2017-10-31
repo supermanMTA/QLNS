@@ -14,7 +14,6 @@ namespace QL_NHANSU
     public partial class Main : Form
     {
         bool b = false;
-
         public Main(bool a)
         {
             InitializeComponent();

@@ -57,8 +57,7 @@ namespace QL_NHANSU.GUI
         private bool check()
         {
             if (txtMaPhong.Text == "") { MessageBox.Show("Mã phòng ban còn trống"); return false; }
-            if (txtTenPhong.Text == "") { MessageBox.Show("Tên phòng ban còn trống"); return false; }
-            if (txtSoNV.Text == "") { MessageBox.Show("Số nhân viên của phòng còn trống"); return false; }
+            
             return true;
         }
         #endregion
@@ -177,7 +176,7 @@ namespace QL_NHANSU.GUI
                         MessageBox.Show("Thêm phòng ban thất bại\n" + ex.Message, "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     }
                 }
-                return;
+               
             }
             else
             {
