@@ -119,5 +119,15 @@ namespace QL_NHANSU.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap satis_departmanlari_unvan_pozisyonlar1_1_260 {
+            get {
+                object obj = ResourceManager.GetObject("satis-departmanlari-unvan-pozisyonlar1-1-260", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

@@ -5,10 +5,10 @@ namespace QL_NHANSU.Data
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Linq;
 
-    public partial class MyContext : DbContext
+    public partial class QL_NS : DbContext
     {
-        public MyContext()
-            : base("name=MyContext")
+        public QL_NS()
+            : base("name=QL_NS")
         {
         }
 
@@ -17,7 +17,6 @@ namespace QL_NHANSU.Data
         public virtual DbSet<NhanVien> NhanViens { get; set; }
         public virtual DbSet<PhanCong> PhanCongs { get; set; }
         public virtual DbSet<PhongBan> PhongBans { get; set; }
-        public virtual DbSet<sysdiagram> sysdiagrams { get; set; }
         public virtual DbSet<ThanNhan> ThanNhans { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)

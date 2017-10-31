@@ -34,3 +34,23 @@ C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.dll
 C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.xml
 C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe.config
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.exe
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.pdb
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csprojResolveAssemblyReference.cache
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.AddNV.resources
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.AddTN.resources
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.DA.resources
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.EditNV.resources
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.EditTN.resources
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.NV.resources
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.PB.resources
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Main.resources
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Properties.Resources.resources
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csproj.GenerateResource.Cache
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.pdb
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.dll
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.xml
+D:\Code\Thực tập nhóm\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.xml

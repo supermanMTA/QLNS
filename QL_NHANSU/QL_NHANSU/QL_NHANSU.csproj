@@ -58,12 +58,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data\DuAn.cs" />
-    <Compile Include="Data\MyContext.cs" />
     <Compile Include="Data\NguoiDung.cs" />
     <Compile Include="Data\NhanVien.cs" />
     <Compile Include="Data\PhanCong.cs" />
     <Compile Include="Data\PhongBan.cs" />
-    <Compile Include="Data\sysdiagram.cs" />
+    <Compile Include="Data\QL_NS.cs" />
     <Compile Include="Data\ThanNhan.cs" />
     <Compile Include="GUI\AddNV.cs">
       <SubType>Form</SubType>
@@ -193,7 +192,9 @@
   <ItemGroup>
     <None Include="Resources\ns.jpg" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\satis-departmanlari-unvan-pozisyonlar1-1-260.jpeg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

@@ -16,7 +16,7 @@ namespace QL_NHANSU
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AddNV());
+            Application.Run(new Main(false));
         }
     }
 }
