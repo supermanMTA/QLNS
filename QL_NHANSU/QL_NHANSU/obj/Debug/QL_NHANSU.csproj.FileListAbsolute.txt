@@ -34,6 +34,3 @@ C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.dll
 C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.xml
 C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.xml
-D:\Code\Thực tập nhóm\QLNS\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe.config
-D:\Code\Thực tập nhóm\QLNS\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.exe
-D:\Code\Thực tập nhóm\QLNS\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.pdb

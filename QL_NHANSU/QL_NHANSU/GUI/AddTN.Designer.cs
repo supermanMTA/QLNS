@@ -1,10 +1,9 @@
-﻿namespace QL_NHANSU.GUI
+﻿namespace QL_NHANSU
 {
     partial class AddTN
-    {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+    {/// <summary>
+     /// Required designer variable.
+     /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
@@ -28,7 +27,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AddTN));
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.txtQH = new System.Windows.Forms.TextBox();
@@ -42,8 +40,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
             this.toolStrip2 = new System.Windows.Forms.ToolStrip();
-            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
             this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
             this.groupBox1.SuspendLayout();
             this.groupBox5.SuspendLayout();
             this.toolStrip2.SuspendLayout();
@@ -170,18 +168,6 @@
             this.toolStrip2.TabIndex = 81;
             this.toolStrip2.Text = "toolStrip1";
             // 
-            // toolStripButton1
-            // 
-            this.toolStripButton1.AutoSize = false;
-            this.toolStripButton1.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton1.Image")));
-            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.toolStripButton1.Name = "toolStripButton1";
-            this.toolStripButton1.Size = new System.Drawing.Size(80, 30);
-            this.toolStripButton1.Text = "Thêm";
-            this.toolStripButton1.ToolTipText = "Thêm(CRT+N)";
-            this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
-            // 
             // toolStripButton2
             // 
             this.toolStripButton2.AutoSize = false;
@@ -191,7 +177,17 @@
             this.toolStripButton2.Name = "toolStripButton2";
             this.toolStripButton2.Size = new System.Drawing.Size(80, 30);
             this.toolStripButton2.Text = "Hủy";
-            this.toolStripButton2.Click += new System.EventHandler(this.toolStripButton2_Click);
+            // 
+            // toolStripButton1
+            // 
+            this.toolStripButton1.AutoSize = false;
+            this.toolStripButton1.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.toolStripButton1.Image = global::QL_NHANSU.Properties.Resources.Add;
+            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton1.Name = "toolStripButton1";
+            this.toolStripButton1.Size = new System.Drawing.Size(80, 30);
+            this.toolStripButton1.Text = "Thêm";
+            this.toolStripButton1.ToolTipText = "Thêm(CRT+N)";
             // 
             // AddTN
             // 
@@ -203,7 +199,6 @@
             this.Name = "AddTN";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "THANNHAN";
-            this.Load += new System.EventHandler(this.THANNHAN_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox5.ResumeLayout(false);
