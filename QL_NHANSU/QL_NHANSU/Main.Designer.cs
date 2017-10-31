@@ -36,7 +36,7 @@
             this.FormQl = new System.Windows.Forms.ToolStripMenuItem();
             this.NhanVienToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.phòngBanToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-//            this.dựÁnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.dựÁnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.panelMain = new System.Windows.Forms.Panel();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -67,12 +67,14 @@
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(152, 22);
             this.btnLogin.Text = "Đăng nhập";
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
             // btnDangky
             // 
             this.btnDangky.Name = "btnDangky";
             this.btnDangky.Size = new System.Drawing.Size(152, 22);
             this.btnDangky.Text = "Đăng ký";
+            this.btnDangky.Click += new System.EventHandler(this.btnDangky_Click);
             // 
             // btnDangxuat
             // 
@@ -80,13 +82,14 @@
             this.btnDangxuat.Name = "btnDangxuat";
             this.btnDangxuat.Size = new System.Drawing.Size(152, 22);
             this.btnDangxuat.Text = "Đăng xuất";
+            this.btnDangxuat.Click += new System.EventHandler(this.btnDangxuat_Click);
             // 
             // FormQl
             // 
             this.FormQl.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.NhanVienToolStripMenuItem,
             this.phòngBanToolStripMenuItem,
-         //   this.dựÁnToolStripMenuItem});
+            this.dựÁnToolStripMenuItem});
             this.FormQl.Enabled = false;
             this.FormQl.Name = "FormQl";
             this.FormQl.Size = new System.Drawing.Size(60, 20);
@@ -97,22 +100,24 @@
             this.NhanVienToolStripMenuItem.Name = "NhanVienToolStripMenuItem";
             this.NhanVienToolStripMenuItem.Size = new System.Drawing.Size(132, 22);
             this.NhanVienToolStripMenuItem.Text = "Nhân viên";
+            this.NhanVienToolStripMenuItem.Click += new System.EventHandler(this.NhanVienToolStripMenuItem_Click);
             // 
             // phòngBanToolStripMenuItem
             // 
             this.phòngBanToolStripMenuItem.Name = "phòngBanToolStripMenuItem";
             this.phòngBanToolStripMenuItem.Size = new System.Drawing.Size(132, 22);
             this.phòngBanToolStripMenuItem.Text = "Phòng ban";
+            this.phòngBanToolStripMenuItem.Click += new System.EventHandler(this.phòngBanToolStripMenuItem_Click);
             // 
             // dựÁnToolStripMenuItem
             // 
-//            this.dựÁnToolStripMenuItem.Name = "dựÁnToolStripMenuItem";
-       //     this.dựÁnToolStripMenuItem.Size = new System.Drawing.Size(132, 22);
-      //      this.dựÁnToolStripMenuItem.Text = "Dự án";
+            this.dựÁnToolStripMenuItem.Name = "dựÁnToolStripMenuItem";
+            this.dựÁnToolStripMenuItem.Size = new System.Drawing.Size(132, 22);
+            this.dựÁnToolStripMenuItem.Text = "Dự án";
+            this.dựÁnToolStripMenuItem.Click += new System.EventHandler(this.dựÁnToolStripMenuItem_Click);
             // 
             // panelMain
             // 
-            this.panelMain.BackgroundImage = global::QL_NHANSU.Properties.Resources.ns;
             this.panelMain.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelMain.Location = new System.Drawing.Point(0, 24);
             this.panelMain.Name = "panelMain";
@@ -124,6 +129,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.BackgroundImage = global::QL_NHANSU.Properties.Resources.satis_departmanlari_unvan_pozisyonlar1_1_260;
             this.ClientSize = new System.Drawing.Size(1090, 601);
             this.Controls.Add(this.panelMain);
             this.Controls.Add(this.menuStrip1);
@@ -132,6 +138,7 @@
             this.Name = "Main";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Main";
+            this.Load += new System.EventHandler(this.Main_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
@@ -148,7 +155,7 @@
         private System.Windows.Forms.ToolStripMenuItem FormQl;
         private System.Windows.Forms.ToolStripMenuItem NhanVienToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem phòngBanToolStripMenuItem;
-        //private System.Windows.Forms.ToolStripMenuItem dựÁnToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem dựÁnToolStripMenuItem;
         private System.Windows.Forms.Panel panelMain;
         private System.Windows.Forms.ToolStripMenuItem btnDangxuat;
     }
